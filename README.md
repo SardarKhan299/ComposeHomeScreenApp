@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
@@ -35,3 +36,7 @@ limitations under the License.
 [ab4_tabata.jpg](https://www.pexels.com/photo/fashion-man-people-art-4662438/) - Elly Fairytale
 [ab5_hiit.jpg](https://www.pexels.com/photo/man-wearing-white-pants-under-blue-sky-999309/) - The Lazy Artist Gallery
 [ab6_pre_natal_yoga.jpg](https://www.pexels.com/photo/woman-doing-yoga-396133/) - freestocks.org
+=======
+# ComposeHomeScreenApp
+In this App we have created a home screen using JetPackCompose. Where we have search Bar on Top. With Horizontal RecyclerView and also A Horizontal Grid with items.Also included bottom navigation and bttom bar with icons.
+>>>>>>> e92c3a38f6abeba30e2132ec0018a5812d58cb24
